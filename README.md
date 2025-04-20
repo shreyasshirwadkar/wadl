@@ -1,3 +1,2 @@
-# This is GitHub repo for WADL assignments
+# WADL - Shreyas Shirwadkar
 
-## Shreyas Shirwadkar
